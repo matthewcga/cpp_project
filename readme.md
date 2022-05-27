@@ -12,8 +12,8 @@
 - by wyczyścić planszę należy wcisnąc E i ppm
 
 #### Konfiguracja biblioteki w projekcie VS
-- w 'Project' > 'Properities'
-      - na 'Config': 'All'
-            - w 'C/C++' i 'Linker'
-                  - w 'Adiditional Include Dir' / 'Additional Lib Dir'
-- ustawić ścieżkę do folderu z biblioteką SFML
+w 'Project' > 'Properities'
+na 'Config': 'All'
+w 'C/C++' i 'Linker'
+w 'Adiditional Include Dir' / 'Additional Lib Dir'
+ustawić ścieżkę do folderu z biblioteką SFML
